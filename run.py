@@ -97,6 +97,7 @@ def main():
         if short_code == "cc":
             print("What account would you like to add or create credentials for??ie Twitter, Instagram or Palmchat")
             account_name = input()
+
             print("Username")
             username = input()
 
