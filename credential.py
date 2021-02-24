@@ -23,7 +23,6 @@ class Credential:
         self.account_list.append(new_account)
         return True
 
-    
     def delete_credential(self,name):
 
         '''
