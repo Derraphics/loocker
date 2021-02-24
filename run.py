@@ -88,7 +88,6 @@ def main():
     print(f"Congratulations {first_name} {last_name}! Welcome to PassLock!!")
     print('\n')
     account_user = User(first_name,last_name,user_email,password)
-
     while 1:
         print('*'*70)
         print('*'*70)
