@@ -2,7 +2,7 @@
 
 ## AUTHOR
 
-Derrick Muriithi 
+Derrick Muriithi Waruguru
 
 ## DESCRIPTION
 
