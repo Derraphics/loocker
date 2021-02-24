@@ -6,7 +6,7 @@ Derrick Muriithi
 
 ## DESCRIPTION
 
-This is a python application that enables users to manage their passwords for various accounts and stores the password. PassLock also generates new passwords for users if they don't wish to create their own passwords. PassLock has short codes to help the users navigate throught the application they can log in display their credentials and later on exit ones they are done.
+This is a python application that enables users to manage their passwords for various accounts and stores the passwords. PasswordLocker also generates new passwords for users if they don't wish to create their own passwords. PasswordLocker has short codes to help the users navigate throught the application they can log in display their credentials and later on exit ones they are done.
 
 ## INSTALLATION(SET UP INSTRUCTION
 

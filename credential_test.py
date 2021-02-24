@@ -1,10 +1,10 @@
+t Class that defines test cases for the credentials class behaviours
 import unittest #Importing unittest module
 from credential import Credential
 
 class TestCredential(unittest.TestCase):
     '''
-    Test Class that defines test cases for the credentials class behaviours
-
+    Tes
     Args:
         unittest.TestCase: TestCase class that helps in creating test cases
     '''
