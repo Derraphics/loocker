@@ -8,7 +8,6 @@ class TestCredential(unittest.TestCase):
     Args:
         unittest.TestCase: TestCase class that helps in creating test cases
     '''
-
     def setUp(self):
         '''
         set up method to run before each test
