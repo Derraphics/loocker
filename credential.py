@@ -14,7 +14,6 @@ class Credential:
         return password
 
 
-
     def save_credential(self,name,username,password):
 
         '''
