@@ -45,7 +45,6 @@ class Credential:
                 return True
         return False
 
-    
     def display_credential(self):
         '''
         display_credential this method that retuns the list of credential_list
