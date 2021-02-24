@@ -117,7 +117,6 @@ def main():
             print(f"A {account_name} has successfully been created.")
             print(f"The user account name is {account_name} and the password {password}")
             print('\n')
-
         elif short_code == "dis":
                 if account_user.display_credential() !=[]:
                     print("Here are your User Account Credentials")
