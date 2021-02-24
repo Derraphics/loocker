@@ -127,7 +127,6 @@ def main():
                 else:
                     print("Oops!! Credentials not found Please Create an Account using the short code cp")
                     print('\n')
-
         elif short_code=="del":
             while 1:
                 user_in = input("Account name: ")
