@@ -1,6 +1,7 @@
 import random
 from credential import Credential
 chars = "abcdefghijklmnoqprstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ123456789!@#$%^&*(+"
+
 while 1:
   password_len = int(input("what length do you want your password to be : "))
   password_count = int(input("How many passwords do you want : "))
